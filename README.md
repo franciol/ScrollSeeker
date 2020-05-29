@@ -1,3 +1,4 @@
 # ScrollSeeker
 
-https://franciol.github.io/ScrollSeeker/
+
+https://simmer.io/@franciol/scroll-seeker
